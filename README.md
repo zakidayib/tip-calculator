@@ -1,4 +1,4 @@
-## Javascript Fundementals Challenge Three (Part One)💪🏾
+## Tip Calculator Part I
 
 Aisha wants to build a very simple tip calculator for whenever she goes eating in a restaurant. In her country, it's usual to tip 15% if the bill value is between 50 and 300. If the value is different, the tip is 20%.
 
